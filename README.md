@@ -1,4 +1,5 @@
 # Simple-Calculator-Using-Rust
+using user input
 Addition
 Subtraction
 Multiplication
